@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import calendar
 
 cal = calendar.Calendar(firstweekday = 0)
