@@ -1,1 +1,1 @@
-os, sys, datetime, re, asyncio, urllib, email, pickle, csv, subrocess, json, cgi, uuid, http, tkinter
+PEP8 - документ, описывающий общепринятый стиль написания кода на языке Python.

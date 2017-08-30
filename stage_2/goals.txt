@@ -1,0 +1,1 @@
+Создание веб-приложений на Python. В дальнейшем интересно применение Python в big data и machine learning.
